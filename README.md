@@ -6,7 +6,7 @@ Passionné par le chiffrement et les idéaux cypherpunks, j'ai découvert dans B
 
 ## Expertise
 
-🎯 Hygiène numérique · 🔐 Self-Custody & Multi-Sig · 🎓 Éducation accessible
+🎯 Hygiène numérique · 🔐 Self-Custody & Multi-Sig ·
 
 ## Learn, Apply, Become
 
