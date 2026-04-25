@@ -1,18 +1,15 @@
 # Vaga ⚡
+**Your guide to digital sovereignty**
 
-**Votre guide vers la souveraineté numérique**
-
-Passionné par le chiffrement et les idéaux cypherpunks, j'ai découvert dans Bitcoin une révolution pour la liberté individuelle. [LAB312](https://lab312.info) est né de cette conviction : la liberté financière n'existe que si vous contrôlez vos clés, vos données, et votre sécurité.
+Passionate about encryption and cypherpunk ideals, I discovered in Bitcoin a revolution for individual freedom. [LAB312](https://lab312.info) was born from this conviction: financial freedom only exists if you control your keys, your data, and your security.
 
 ## Expertise
-
-🎯 Hygiène numérique · 🔐 Self-Custody & Multi-Sig ·
+🎯 Digital Hygiene · 🔐 Self-Custody & Multi-Sig ·
 
 ## Learn, Apply, Become
 
-## Contenus & Réseau
-
-📺 [YouTube](https://youtube.com/@learnaboutbitcoin312) · 𝕏 [@Lab312_](https://x.com/Lab312_) · 📬 Newsletter "312" · 🎙️ Lives jeudis 20h
+## Content & Network
+📺 [YouTube](https://youtube.com/@learnaboutbitcoin312) · 𝕏 [@Lab312_](https://x.com/Lab312_) · 📬 Newsletter "312" · 🎙️ Live streams Thursdays 8PM
 
 ---
 
